@@ -45,7 +45,7 @@ layout: none
 		{% endfor %}
 		{% endfor %}
 	</url>
-	<!-- 404 -->
+	<!-- 404 not found-->
 	<url>
 		<loc>{{ site.url }}/404.html</loc>
 		<priority>0.3</priority>

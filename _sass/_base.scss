@@ -1,3 +1,7 @@
+@use "variables" as *;
+@use "mixins" as *;
+@use "sass:color";
+
 html,
 body {
     height: 100%;
@@ -23,7 +27,7 @@ a {
     color: $theme-primary;
     &:hover,
     &:focus {
-        color: darken($theme-primary, 10%);
+        color: color.scale($theme-primary, $lightness: -10%);
     }
 }
 

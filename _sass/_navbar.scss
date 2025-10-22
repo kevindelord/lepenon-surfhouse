@@ -1,3 +1,7 @@
+@use "variables" as *;
+@use "mixins" as *;
+@use "sass:color";
+
 /* Base styling for the navbar */
 
 #mainNav {
@@ -80,7 +84,7 @@
       .navbar-brand {
         color: $theme-primary;
         &:hover {
-          color: darken($theme-primary, 10%);
+          color: color.scale($theme-primary, $lightness: -10%);
         }
       }
 
