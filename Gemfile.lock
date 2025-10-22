@@ -75,9 +75,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll
-  jekyll-sass-converter
-  webrick
+  jekyll (~> 4.4)
+  jekyll-sass-converter (~> 3.1)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.3.27
