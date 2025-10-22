@@ -25,7 +25,7 @@ markdown: kramdown
 sass:
   compressed: true
 
-exclude: ['scripts', 'README.md', 'LICENSE', 'robots.txt', 'CNAME', 'img', 'rsc']
+exclude: ['scripts', 'README.md', 'LICENSE']
 
 collections:
   languages:
