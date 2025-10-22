@@ -554,17 +554,17 @@ t:
             de: "Die Terrasse vor dem Wald"
         15:
           image:
-            en: "surfboard-rack-storage-vacation-rental-beach.jpeg"
-            fr: "rangement-planches-surf-location-vacances-plage.jpeg"
-            de: "surfbrettstaender-lagerung-ferienwohnung-strand.jpeg"
+            en: "outdoor-shower-vacation-rental-beach.jpeg"
+            fr: "douche-exterieure-location-vacances-plage.jpeg"
+            de: "aussendusche-ferienwohnung-strand.jpeg"
           title:
-            en: "Surfboard rack"
-            fr: "Surfrack pour rangement de planches de surf"
-            de: "Surfbrettständer"
+            en: "Outdoor shower"
+            fr: "Douche extérieure"
+            de: "Außendusche"
           alt:
-            en: "Surfboard rack for storing surfboards"
-            fr: "Surfrack pour rangement de planches de surf"
-            de: "Surfbrettständer zum Aufbewahren von Surfboards"
+            en: "Outdoor shower for rinsing off after the beach"
+            fr: "Douche extérieure pour se rincer après la plage"
+            de: "Außendusche zum Abspülen nach dem Strand"
         16:
           image:
             en: "sunset-beach-vacation-rental-beach.jpeg"
